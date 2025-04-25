@@ -1,6 +1,7 @@
 pandas
-seaborn
 matplotlib
+seaborn
 scikit-learn
 xgboost
 imbalanced-learn
+ydata-profiling
