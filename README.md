@@ -13,7 +13,7 @@ Der Ordner _output_ beinhaltet die durch das Notebook generierten Ausgaben, wie 
 1. **Klonen Sie das Repository und wechseln Sie in das Verzeichnis**
 
     ```bash
-    git clone git@github.com:juliisch/MALE01.git
+    git clone https://github.com/juliisch/MALE01.git
     ```
     ```bash
     cd MALE01
